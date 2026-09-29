@@ -94,7 +94,7 @@ Larger propellers also affect:
 
 ## 💻 Interactive Experiment
 
-**[🚁 Launch the Drone Propeller Lab](YOUR_STREAMLIT_URL)**
+**[🚁 Launch the Drone Propeller Lab](https://drone-hover-propeller-experiment-sk3dphswikqw634fulua7z.streamlit.app/)**
 
 Change the drone mass and propeller diameter and observe how the estimated ideal hover power changes.
 
